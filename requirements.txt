@@ -1,0 +1,6 @@
+customtkinter>=5.2
+psutil>=5.9
+ollama>=0.4
+Pillow>=10.0
+Send2Trash>=1.8
+# Per creare l'eseguibile: pip install pyinstaller
